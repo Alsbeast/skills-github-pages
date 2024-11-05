@@ -1,4 +1,4 @@
 ---
-Holidats: Welcome to my blog
+Holidays: Welcome to my blog
 ---
 
